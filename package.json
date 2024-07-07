@@ -1,0 +1,14 @@
+{
+  "name": "namaste_react",
+  "version": "1.0.0",
+  "description": "This is react app",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "Ishtiaque Ahmed",
+  "license": "ISC"
+}
